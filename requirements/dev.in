@@ -1,3 +1,5 @@
+pylint 
+
 # to handle dependencies
 pip-tools
 wheel
